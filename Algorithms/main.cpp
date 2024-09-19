@@ -3,7 +3,8 @@
 
 int main()
 {
-    the_most_effective_way_dp();
+    show_route_at_high_cost();
+
 
     return 0;
 }
