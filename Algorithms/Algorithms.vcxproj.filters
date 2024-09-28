@@ -24,6 +24,9 @@
     <ClCompile Include="show_route_at_high_cost.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="knights_move.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="algorithms.h">
