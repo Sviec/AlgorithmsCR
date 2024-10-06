@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="cafe.cpp" />
     <ClCompile Include="knights_move.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="show_route_at_high_cost.cpp" />

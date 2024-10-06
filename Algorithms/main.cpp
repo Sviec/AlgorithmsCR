@@ -2,7 +2,7 @@
 
 int main()
 {
-    knights_move();
+    cafe();
 
     return 0;
 }

@@ -8,4 +8,6 @@ void show_route_at_high_cost();
 
 void knights_move();
 
+void cafe();
+
 #endif ALGORITHMS_H
