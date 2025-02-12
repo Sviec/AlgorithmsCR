@@ -10,4 +10,6 @@ void knights_move();
 
 void cafe();
 
+void dfs();
+
 #endif ALGORITHMS_H
