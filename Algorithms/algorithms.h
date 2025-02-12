@@ -12,4 +12,6 @@ void cafe();
 
 void dfs();
 
+void connectivity_component();
+
 #endif ALGORITHMS_H
