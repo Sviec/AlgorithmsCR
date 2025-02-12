@@ -2,7 +2,7 @@
 
 int main()
 {
-    dfs();
+    connectivity_component();
 
     return 0;
 }
