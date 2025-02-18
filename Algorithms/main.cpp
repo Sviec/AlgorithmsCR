@@ -2,7 +2,7 @@
 
 int main()
 {
-    connectivity_component();
+    topsort();
 
     return 0;
 }

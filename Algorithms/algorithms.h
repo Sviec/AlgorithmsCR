@@ -14,4 +14,6 @@ void dfs();
 
 void connectivity_component();
 
+void topsort();
+
 #endif ALGORITHMS_H
